@@ -1,6 +1,6 @@
 # FACT plugins - AlientVault, VirusTotal, XForce
 
-These plugins add IP analysis functionality to [FACT]https://github.com/fkie-cad/FACT_core
+These plugins add IP analysis functionality to [FACT](https://github.com/fkie-cad/FACT_core)
 
 ## Installation
 
